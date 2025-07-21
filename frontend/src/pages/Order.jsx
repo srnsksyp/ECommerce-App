@@ -30,7 +30,7 @@ const Order = () => {
                   <p className='min-w-2 h-2 rounded-full bg-green-500'></p>
                   <p className='text-sm md:text-base'>Ready to ship</p>
                 </div>
-                <button className='border px-4 py-2 text-sm font-medium rounded-sm active:bg-gray-100'>Track Order</button>
+                <button className='border px-4 py-2 text-sm font-medium rounded-sm hover:bg-black hover:text-white transition-all ease-in-out duration-400'>Track Order</button>
               </div>
             </div>
           ))
